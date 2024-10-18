@@ -1,0 +1,6 @@
+@problema_nest_HostAddress = http://localhost:5056
+
+GET {{problema_nest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
