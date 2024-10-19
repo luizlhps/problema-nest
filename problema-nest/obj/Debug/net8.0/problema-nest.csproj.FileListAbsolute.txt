@@ -32,3 +32,4 @@ H:\Usuario\Área de Trabalho\problema-nest\problema-nest\obj\Debug\net8.0\refint
 H:\Usuario\Área de Trabalho\problema-nest\problema-nest\obj\Debug\net8.0\problema-nest.pdb
 H:\Usuario\Área de Trabalho\problema-nest\problema-nest\obj\Debug\net8.0\problema-nest.genruntimeconfig.cache
 H:\Usuario\Área de Trabalho\problema-nest\problema-nest\obj\Debug\net8.0\ref\problema-nest.dll
+h:\Usuario\Área de Trabalho\problema-nest\problema-nest\obj\Debug\net8.0\problema-nest.sourcelink.json
