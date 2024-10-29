@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l4lRS7lORDQ=",
+  "dgSpecHash": "N7r8Mmfkcao=",
   "success": true,
-  "projectFilePath": "h:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj",
+  "projectFilePath": "H:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luizh\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
     "C:\\Users\\luizh\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",

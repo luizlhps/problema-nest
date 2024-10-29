@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj": {}
+    "H:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj": {}
   },
   "projects": {
-    "h:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj": {
+    "H:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj",
+        "projectUniqueName": "H:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj",
         "projectName": "problema-nest",
-        "projectPath": "h:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj",
+        "projectPath": "H:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\problema-nest.csproj",
         "packagesPath": "C:\\Users\\luizh\\.nuget\\packages\\",
-        "outputPath": "h:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\obj\\",
+        "outputPath": "H:\\Usuario\\Área de Trabalho\\problema-nest\\problema-nest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizh\\AppData\\Roaming\\NuGet\\NuGet.Config",

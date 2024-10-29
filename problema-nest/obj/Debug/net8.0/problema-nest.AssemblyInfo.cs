@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("problema-nest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a4c4591e45e3ee9564626d9329a24604dc7c465")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55cbeea58e026892674ba27e796cbd2796af5536")]
 [assembly: System.Reflection.AssemblyProductAttribute("problema-nest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("problema-nest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
